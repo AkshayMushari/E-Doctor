@@ -46,3 +46,6 @@ Clone the repository:
    ```sh
    git clone https://github.com/AkshayMushari/E-Doctor.git
    cd E-Doctor
+```
+#Note:
+This takes too much time and also to spped up i will push 2nd version using gen ai api
