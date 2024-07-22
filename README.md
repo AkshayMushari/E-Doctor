@@ -1,5 +1,4 @@
-# E-Doctor
-
+# E-Doctor (Engineered Doctor 😎 )                                                                                                                                                                                              
 The AI-based Medical Laboratory project aims to revolutionize laboratory medicine through the use of artificial intelligence (AI) and machine learning (ML). By enhancing the precision and speed of laboratory processes, the project seeks to reduce human errors, cut costs, and ultimately improve patient outcomes and satisfaction.
 
 ## Features
@@ -47,5 +46,7 @@ Clone the repository:
    git clone https://github.com/AkshayMushari/E-Doctor.git
    cd E-Doctor
 ```
+For Further Queries contact me : mushariakshay@gmail.com
+
 #Note:
 This takes too much time and also to spped up i will push 2nd version using gen ai api
