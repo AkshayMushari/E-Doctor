@@ -47,6 +47,8 @@ Clone the repository:
    cd E-Doctor
 ```
 For Further Queries contact me : mushariakshay@gmail.com
+                       
+review and mail me if there are any changes to be made
 
 #Note:
 This takes too much time and also to spped up i will push 2nd version using gen ai api
